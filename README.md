@@ -2,19 +2,19 @@
 
 ## About me
 
-Certified Software Tester with over 3 years of commercial experience. Willing to constantly learn and use new tools. I'm oriented for further development as Test Automation Engineer
+Certified Software Tester with over 4 years of commercial experience. Willing to constantly learn and use new tools. I'm oriented for further development as Test Automation Engineer
 
 ## Tech Stack
 
-* ISTQB: Foundation Level & Test Automation Engineer certificate
-* Databases: MySQL
-* Languages: Python, JS/TS, basics of C#
+* Languages: Python, JS, basics of Java
 * Testing: Selenium, pytest, unittest, Postman, CSS Selectors, XPATH, Webmethods, Webservices, XML, JSON, REST
 * Frameworks: Robot Framework, 
 * Version Control Systems: Git, SVN, Bitbucket
 * CI: Jenkins, Gitlab
 * OS: Windows, macOS, Linux - CLI/bash/basics of powershell
-* Other tools: Confluence, JIRA, Redmine, Trello, npm/yarn, Docker(compose)
+* Databases: MySQL
+* Other tools: Confluence, JIRA, Redmine, Trello, npm/yarn, Docker
+* ISTQB: Foundation Level & Test Automation Engineer certificate
 
 ## Courses 
 
